@@ -1,6 +1,10 @@
 # Behavioral Cloning Simulator
 ### A Simulation System for Experimenting and Testing Autonomous Driving using Behavioral Cloning
 
+| Lake Track | Mountain Track |
+| :------------------:| :------------------: |
+| ![Lake Track](Lake-Track.png) | ![Mountain Track](Mountain-Track.png) |
+
 ## SETUP
 
 1. Download and install Unity 5.5.1f1

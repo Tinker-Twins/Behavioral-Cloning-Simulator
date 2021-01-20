@@ -65,3 +65,6 @@ Please cite the [following paper](https://arxiv.org/abs/2010.04767) when using t
       primaryClass={cs.RO}
 }
 ```
+
+## ACKNOWLEDGEMENT
+This simulator is a rework of [Udacity's Self-Driving Car Simulator](https://github.com/udacity/self-driving-car-sim).

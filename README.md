@@ -56,7 +56,7 @@ Implementation demonstrations are available on [YouTube](https://youtube.com/pla
 Please cite the [following paper](https://arxiv.org/abs/2010.04767) when using the Behavioral Cloning Simulator for your research:
 
 ```bibtex
-@article{RBCAV2021,
+@eprint{RBCAV2021,
       title={Robust Behavioral Cloning for Autonomous Vehicles using End-to-End Imitation Learning}, 
       author={Tanmay Vilas Samak and Chinmay Vilas Samak and Sivanathan Kandhasamy},
       year={2021},

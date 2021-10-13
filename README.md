@@ -50,7 +50,9 @@ Use the `Generate Driving Log` button in `Training Mode` and/or `Deployment Mode
   - Vehicle Speed
 
 ## DEMO
-Implementation demonstrations are available on [YouTube](https://youtube.com/playlist?list=PLY45pkzWzH9_OskmgHXuzW8HmOhWWIqcu).
+This simulator was exploited in the benchmarking research on [Robust Behavioral Cloning for Autonomous Vehicles](https://github.com/Tinker-Twins/Robust_Behavioral_Cloning).
+
+Video demonstrations of this work are available on [YouTube](https://youtube.com/playlist?list=PLY45pkzWzH9_OskmgHXuzW8HmOhWWIqcu).
 
 ## CITATION
 Please cite the [following paper](https://arxiv.org/abs/2010.04767) when using the Behavioral Cloning Simulator for your research:

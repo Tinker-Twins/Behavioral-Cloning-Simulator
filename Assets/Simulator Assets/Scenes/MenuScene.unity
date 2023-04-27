@@ -797,7 +797,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: FOR AUTONOMOUS VEHICLES
+  m_Text: FOR SELF-DRIVING CARS
 --- !u!222 &874137076
 CanvasRenderer:
   m_ObjectHideFlags: 0
